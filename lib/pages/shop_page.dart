@@ -37,7 +37,7 @@ class _ShopePageState extends State<ShopPage> {
                         ),
                           padding: EdgeInsets.only(top: 25,bottom: 25),
                           child: Center(
-                            child: Text("How would you like you have your coffee ?",
+                            child: Text("How would you like to have your coffee ?",
                               style: TextStyle(
                                 color: Colors.white,
                                   fontSize: 20,
